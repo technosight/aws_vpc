@@ -1,4 +1,4 @@
-## AWS Virtual Private Cloud manipulation with boto3
+## AWS Virtual Private Cloud removal with boto3
 
 When this code was written, AWS API didn't have a method for uncoditional deletion of Vitual Private Cloud (VPC). This 
 code comes through a sequence of all prerequisites that need to be cleaned up prior to VPC deletion.
